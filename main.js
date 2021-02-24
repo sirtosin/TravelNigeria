@@ -15,7 +15,7 @@ M.Slider.init(slider, {
 const ss = document.querySelectorAll('.scrollspy');
 M.ScrollSpy.init(ss, {});
 
-// Material Boxed
+// Material Box
 const mb = document.querySelectorAll('.materialboxed');
 M.Materialbox.init(mb, {});
 
